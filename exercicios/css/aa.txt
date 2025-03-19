@@ -1,0 +1,19 @@
+Crie uma página web contendo os elementos dados até o momento em sala de aula. 
+
+A primeira página deve trazer informações sobre o que é o Mesa Brasil. 
+
+Essa página vai para dois links, um para uma receita da sua escolha, e outra receita também da sua escolha. 
+
+A primeira receita deve conter um link que volta para a home (página Mesa Brasil) e vai para a segunda receita. 
+
+A segunda receita deve conter um link que volta para a home e outro que vai para a primeira receita. 
+
+A atividade é feita de forma individual. Crie um repositório chamado, exercicios-html-css no Github
+
+Coloque esse projeto em um arquivo chamado ReceitasMesaBrasil
+
+Suba o arquivo via terminal do GitHub. Entregue o link do Github. 
+
+<div class="sucoverde">
+        <img src="img/suco verde.jpeg" alt="suco verde">
+    </div>

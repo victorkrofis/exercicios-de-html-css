@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(200, 240, 140);
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    background-color: green;
+    width: 400px;
+   border-radius: 20px;
+}
+
+.prim{
+    display: flex;
+    width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+    column-gap: 100px;
+    height: auto;
+    margin-top: 100px;
+   
+}
+
+.preparo{
+    background-color: green;
+    width: 500px;
+    border-radius: 20px;
+}
+
+footer{
+    
+    
+    text-align: center;
+    margin-top: 150px;
+    padding-bottom: 30px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: auto;
+
+}

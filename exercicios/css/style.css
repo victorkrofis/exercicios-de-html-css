@@ -1,0 +1,32 @@
+.titulo{
+    text-align: center;
+}
+
+.opcoes{
+    text-align: center;
+}
+
+.opcoes2{
+    text-align: center;
+}
+
+.info{
+    text-align: left;
+    background-color: rgb(87, 87, 87);
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 700px ;
+   margin: auto;
+    
+}
+
+div{
+text-align: center;
+}
+
+footer{
+    background-color: greenyellow;
+    padding-bottom: 305px;
+    text-align: center;
+}
