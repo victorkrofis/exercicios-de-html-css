@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
 
 body{
-  background-color: gray;
+  background-image: url(/img/cemitério-41356224.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .titulo{
     
-    margin-left: 850px;
+    margin-left: 800px;
     width: 500px;
-    color: rgb(0, 0, 0);
+    color: rgb(96, 160, 78);
     font-family: Underdog, Arial, Helvetica, sans-serif;
     font-size: larger;
 }
@@ -18,7 +20,7 @@ body{
 
 .sinopse{
     margin-left: 700px;
-    color: rgb(0, 0, 0);
+    color: rgb(96, 160, 78);
     text-align: center;
     width: 500px;
     font-family: Underdog;
@@ -28,7 +30,7 @@ body{
 
 .resumo{
     margin-left: 700px;
-    color: rgb(0, 0, 0);
+    color: rgb(96, 160, 78);
     text-align: center;
     width: 500px;
     font-family: Underdog;
@@ -38,7 +40,7 @@ body{
 
 .atores{
     margin-left: 700px;
-    color: rgb(0, 0, 0);
+    color: rgb(96, 160, 78);
     text-align: center;
     width: 500px;
     font-family: Underdog;
@@ -48,7 +50,7 @@ body{
 
 .criadores{
     margin-left: 700px;
-    color: rgb(0, 0, 0);
+    color: rgb(96, 160, 78);
     text-align: center;
     width: 500px;
     font-family: Underdog;
@@ -62,28 +64,8 @@ body{
     
 }
 
-footer{
-    padding: 300px;
-    border-radius: 20px;
-    background-image: url(/img/b.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+.video1{
+    margin-left: 620px;
 }
 
-.vitor{
-    width: 40%;
-    height: auto;
-    border-radius: 50%;
-}
 
-.Elsa{
-    width: 40%;
-    height: auto;
-   border-radius: 50%;
-}
-
-.elenco{
-    display: flex;
-    justify-content: space-between;
-    font-size: larger;
-}
