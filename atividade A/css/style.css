@@ -64,6 +64,13 @@ body{
     
 }
 
-
+.perso{
+    margin-left: 700px;
+    color: rgb(96, 160, 78);
+    text-align: center;
+    width: 500px;
+    font-family: Underdog;
+    font-size: larger;
+}
 
 
